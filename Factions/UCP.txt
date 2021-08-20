@@ -11,7 +11,13 @@ RULES:
 
 Roster Creation rule: Quantity has a quality all of its own. Choose a single squad. That squad, and any other exactly like it, cost 30% less.
 
-UNITS:
+UNITS TODO:
 
-Basic infantry.
-Heavy weapon infantry.
+Basic infantry
+Heavy weapon infantry
+Elite Infantry
+Tank
+Armored Personel Carrier
+Field Gun / Artillery Gun
+Commander (2-3 grades)
+General-purpose VTOL plane.
