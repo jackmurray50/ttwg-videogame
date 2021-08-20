@@ -1,0 +1,33 @@
+Weapons are often abbreviated by name like this:
+Name(Optimal-Falloff/Speed/Power/Damage Amount Type/Traits)
+Ex:
+Rifle(12"-6"/2/4/1PH/-)
+
+Weapon stats:
+	Damage Type: Used to handle resistance or vulnerability.
+		Thermal(TH): Represents lasers, flamethrowers, or things like liquid nitrogen throwers.
+		Physical(PH): Represents your average bullets, shrapnel, knives, and so on.
+		Concussive(CON): Represents things like sonic weaponry, pure explosive force, etc..
+		Exposure(EXP): Things you breathe in or avoid touching. Vacuum, poison, radiation.
+		Magic(MGC): General magic fuckery.
+	Damage Amount:
+		How much damage a successful (unmodified) hit does.
+	Weapon Speed:
+		How many attacks you make with the weapon.
+	Weapon Power:
+		How hard the weapon hits. An anti-tank gun will hit harder than a 9mm, but not necessarily deal more damage.
+	
+
+Ranged weapon stats:
+	Optimal Range: Range within which you take no penalties to hit
+	Falloff Rate: Increments at which your weapons to-hit or damage degrades.
+	
+Traits:
+	Assault:
+		Doesn't take a negative to-hit modifier for moving. If this weapon also has Heavy, its negated.
+	Sniper:
+		Will always target the highest-point value entity in the unit.
+	Heavy:
+		Takes double the to-hit movement penalty. If this weapon also has Assault, its negated.
+	Armor-Penetrating(x):
+		So long as the weapon hits, it will deal at least this much damage.

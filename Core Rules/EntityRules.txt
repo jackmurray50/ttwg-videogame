@@ -1,0 +1,38 @@
+Core Entity Rules:
+Entities have both stats and equipment. Equipment is things like weapons or armour, and can be changed depending on the mission.
+
+
+GENERAL:
+
+Movement Speed: How many meters the entity can move per activation.
+Size: How physically large the entity is, measured in how many target points it has.
+Strength: An abstraction of how large and strong this entity is. A tank will have higher than a car, a car will have higher than a human.
+Veterancy: How many times this unit can be activated per turn, and the units ability to stay in the fight. A Squad uses the highest Veterancy in the unit, as the inexperienced take cues from the veterans.
+Traits: Traits the entity may have. 
+Keywords: Signify that something belongs to a certain group.
+
+OFFENSE:
+Aim: How good the entity is at hitting a target.
+Melee: How good the entity is at attacking and defending in melee.
+
+DEFENSE:
+Dodge: How good the entity is at dodging explosions or mech attacks.
+
+EQUIPMENT:
+Armour:
+	Modifies resistances, movement speed, and more. 
+Weapons:
+	The weapons the entity has.
+Example:
+Infantryman:
+	Movement: 4
+	Size: 18
+	Strength: 4
+	Aim: 4
+	Melee: 4
+	Veterancy: 1
+	Health: 1
+	Armour: Kevlar(10/0/-)
+	Weapon: Rifle(12"-6"/2/4/1PH/-)
+	Traits: -
+	Keywords: Infantry, Biological.

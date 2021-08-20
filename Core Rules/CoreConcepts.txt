@@ -1,0 +1,33 @@
+Core Design Concepts:
+1. Bigger Is Better. As much as possible, make sure that higher numbers are preferable.
+2. Don't invalidate rules. Avoid using mechanics that entirely bypass another mechanic. Ex: Invulnerable Saves in 40k
+3. Don't make boring things optimal. Ex: careful placement of models to have the maximum dispersion, to make blast weapons less dangerous.
+
+Game Sequence:
+PRE-GAME:
+Roster creation:
+	Both players will have created Rosters based around different army lists. There's two types of rosters: Main-Line, and Auxiliaries. A Main-Line roster will have more restrictions and be around 75% of the force, while an Auxiliary roster will be the remaining 25% and have very few restrictions, to allow you to bring whatever is useful. 
+Game Selection:
+	The player selects their mainline roster and hits Find Game. Once their opponent is chosen, both players get a brief overview of their opponents main-line roster. How many of which troops they have. Then, they choose which pre-made auxiliary roster they want to choose. This means that if an enemies force has too much aircraft, they can bring anti-aircraft. It helps prevent a rock paper scissors situation.
+	Mission Selection:
+	Both players can veto one mission, and choose one preferred mission. The game then randomly chooses one of the preferred missions.
+IN-GAME:
+Deployment:
+	Players deploy their forces in order of slowest to heaviest, randomizing ties.
+Turn Order:
+	USes a turn order system similar to Bolt Action, but weighted to prevent bad chance. For every Order a player has, they add one token into the 'dice bag'. The game picks one randomly, and the person (Person A) whose token was pulled gets to activate one unit. Once they're done activating, this happens again. However, once someone has activated twice in a row, it instead pulls two tokens out; if both tokens belong to the same person that went twice in a row, they get to go again. Otherwise, the turn passes onto the other person. Every time this happens, the amount of Tries increases. So it looks like this, assuming both sides have an equal amount of activations in the bag:
+	1st turn: 50%
+	2nd turn: 50%
+	3rd turn: 25%
+	4th turn: 12.5%
+	5th turn: 6.25%
+
+
+Types of Rolls:
+
+Morale: When taking overwhemling damage, the unit may make a morale check modified by their Veterancy to see if they stick around.
+To Hit: Trying to hit an opponent. At range, this uses the opponents size as a goal. In Melee, its contested against the opponents roll.
+To Penetrate: Trying to get through armour. Make a roll modified by Strength against the opponents Armour.
+"Roll Versus X": Certain abilities (Explosives, magic) Will request an entity makes a save, modified by the stat. For instance, a Dodge Save would be modified by the entities Dodge value.
+
+A roll is done on 2d10+modifiers. Certain abilities may give Advantage or Disadvantage; in this case, roll an extra D10 and take the 2 highest or lowest, respectively. If you have 2 advantage, roll 4d10 and take the 2 highest. If you have 2 advantage and 1 disadvantage, treat it like 1 advantage.

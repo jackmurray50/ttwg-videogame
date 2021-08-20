@@ -1,0 +1,6 @@
+Weapon Traits:
+
+Armour Traits:
+Powered(x): Increases the wearers Melee strength by x.
+
+Unit Traits:

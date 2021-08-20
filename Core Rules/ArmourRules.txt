@@ -1,0 +1,24 @@
+Armour Rules:
+While armour has traits, it will usually be written like this:
+Name(ArmourValue/Weight/Trait Abbreviations)
+
+For instance, Kevlar body armour would be:
+Kevlar Body Armour (10/0/-)
+
+Power Armour with thermal padding would be:
+Thermal Resistant Power Armour (16/-2/rT5)
+
+
+Traits:
+
+Resistance:
+	Increase your armour by a certain amount against that damage type. Abbreviated as r(Type)(Amount).
+	rT5: Thermal Resistance 5
+	rM2: Magic Resistance 2.
+Powered(x):
+	Increase your weapons Strength by the amount.
+	
+Armour Value:
+	How hard it is to punch through this entities armour. Higher is better.
+Weight:
+	How much the entities Dodge and Movement Speed are modified by. Higher is better, as it actually provides a bonus.
