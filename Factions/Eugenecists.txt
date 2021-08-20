@@ -14,3 +14,12 @@ Militarily, they are extremely effective in their chosen field, but awful outsid
 
 RULES:
 
+
+Squads:
+Anti-tank team
+Anti-infantry team
+Melee team
+Mage hero
+Sniper
+APC (Doubles as tank and scout as well)
+Dogfighter
