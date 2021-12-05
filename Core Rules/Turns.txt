@@ -1,0 +1,9 @@
+Turn Procedure:
+
+Once you have selected a unit to Order, it follows this process:
+
+1) Any 'On Activation' Abilities take place. 
+
+2) The units available actions pop up. These will usually be (at least) Move, Shoot, Melee, Change Formation. If a unit can usually take one of those actions but can't, it will be greyed out. Make sure that hovering over the button tells you why it's not available.
+
+2) Each unit has two actions by default. They can do them in any order.

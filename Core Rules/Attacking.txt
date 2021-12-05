@@ -1,0 +1,49 @@
+Attacking process:
+1) Click on the ability you want to use. Usually this will be Fire or Melee, but there may be others.
+2) Choose the target unit:
+	1. Run a quick estimate of to-hit versus various people in range.
+	2. Display a readout over the unit (See Damage Projection file for more)
+	3. Display any active modifiers from auras and such
+	4. Make sure any activatable abilities are available now to be chosen. Update the damage projection readout.
+	5. Click on who you want to fire at.
+3a) If it's ranged, have each squad member do the following, going from blast attacks first, then farthest to closest, then sniper attacks (The player can swap this around)
+	1: Find the to-hit value for every opponent.
+	2: Choose the easiest 20% to hit of the enemy.
+	3: Randomize which target to shoot at.
+	4: Fire at that enemy.
+3b) If it's melee, have each squad member do the following, going from closest to farthest (The player can alter this)
+	1: Find the closest opponent within your movement range. If you're currently within base contact with an opponent, this movement range is 0.(Note that melee attacks can only happen within base contact)
+		If the player has a spear or something similar, then they can attack within base contact with an ally within base contact.
+	2: Move towards this opponent. If it's likely to survive your attacks, make sure to keep enough room for an ally to get into engagement range. If it's not, then simply use as little movement as possible.
+	3: Attack the closest opponent (If multiple are within equal distance, attack whichever is easiest to hit. If those are equal, attack whichever is most wounded. If those are equal, attack whichever is least engaged. If those are equal, attack randomly)
+	4: If you have attacks left, repeat the above process. 
+4) Roll to hit:
+	1. Use modifiers from phase 3 to determine base to-hit.
+	2. Roll 2d10, with the target being however many target points are visible divided by 5, rounded up. Add on the units Aim to the roll. If the roll is equal to or greater than the target number, it's a hit. Keep track of how much you surpassed the roll by.
+5) Roll to harm
+	1. The target number is the opponents armour. Roll 2d10, adding all necessary modifiers. Also add on 1/2 of the excess to-hit, up to the weapons strength. Ex: If someone needed a 10 to hit and got a 16, they'd get +3 to Harm. On a success, apply damage.
+6) Apply damage. 
+6)  Enemy reactions now take place; they follow the same process as above, but with penalties for being the Reactionary force.
+
+
+Shooting accuracy Modifers (Not including statuses):
+
+1) Line of Sight: Depending on how many points of visibility there are, the enemy will be harder to hit.
+2) Range: Depending on the weapon being used, it may be harder to hit an enemy (Lasers lose power, not accuracy)
+3) Immobile: If the unit didn't move this activation, gain +1 to hit.
+
+Melee accuracy Modifiers:
+Add half of the difference between modifiers, rounded up.
+
+Harm roll modifiers:
+Targets armour
+Attackers Power
+Range (If the weapon is a laser)
+
+
+How to damage:
+Once a hit has been confirmed, follow this process:
+
+1) See if the attack inflicts damage (Harm roll): Do a standard (2d10) roll. The target number is the opponents armour minus the weapons power. So if an STR 4 weapon is shooting an opponent with 12 armour, the target is 8. You need to meet or beat the result in order to do damage.
+
+2) Apply damage. 

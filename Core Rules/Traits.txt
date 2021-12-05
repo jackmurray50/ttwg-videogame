@@ -4,3 +4,17 @@ Armour Traits:
 Powered(x): Increases the wearers Melee strength by x.
 
 Unit Traits:
+
+Keywords: (These do nothing, but are helpful to figure out what a unit is and how it's affected by certain things)
+Biological
+Mechanical
+Infantry
+Vehicle
+Tank
+Treads
+Wheeled
+Walker
+Fly
+Hover
+Mage
+Paranormal

@@ -16,7 +16,7 @@ Aim: How good the entity is at hitting a target.
 Melee: How good the entity is at attacking and defending in melee.
 
 DEFENSE:
-Dodge: How good the entity is at dodging explosions or mech attacks.
+Dodge: How good the entity is at dodging explosions or slower attacks.
 
 EQUIPMENT:
 Armour:

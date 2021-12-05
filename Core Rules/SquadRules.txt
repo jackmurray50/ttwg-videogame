@@ -1,0 +1,16 @@
+Squad Rules:
+
+Each squad will have a leader. The whole squad has to be within a certain range of said leader, but are able to move more than him in order to reorganize their formation. The exact location of the squad members will be decided by the computer, with different formations favouring different things. Ex a defensive formation will favour cover, an offensive formation will favour being close to the enemy. 
+
+The Squad Leader's position is the only one that can be micromanaged, and everyone elses revolves around them.
+
+DEFAULT FORMATIONS:
+Aggressive Spread
+	The group will try to make a spread out line of soldiers, able to engage across a wide line. They won't prioritize cover and instead will prioritize advancing.
+Defensive Spread
+	The group will be spread out but prioritize taking cover. They'll take less advantage of cover but will be less susceptible to artillery.
+Aggressive Closed
+	The group will try to form something of a wedge formation where they'll be able punch through an enemy line. They won't prioritize cover and will instead do their best to advance.
+Defensive Closed
+	The group will try to group up as much as possible to take advantage of what little cover there is.
+	

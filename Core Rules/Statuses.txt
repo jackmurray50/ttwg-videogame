@@ -1,0 +1,3 @@
+Statuses:
+
+Shell-Shocked: Applied when hit by a particularly large barrage of fire. Imposes disadvantage to all abilities except Regrouping, and halves your movement. Can be removed by spending an action, rolling against Determination.
